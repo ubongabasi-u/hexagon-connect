@@ -1,0 +1,200 @@
+              /* SPLASH PAGE */
+              body {
+                  background-color: #2d6e88;
+              }
+
+              .continue {
+                  width: 90%;
+                  /* border: 1px solid red; */
+                  margin: 0px auto;
+              }
+
+              .signuplink {
+                  text-align: center;
+              }
+
+              .signuplink a {
+                  color: honeydew;
+                  text-decoration: none;
+              }
+
+              .continue img {
+                  height: 100px;
+                  width: 100px;
+                  float: left;
+                  margin-right: 30px;
+
+              }
+
+              .continuestatement {
+                  width: 90%;
+                  /* border: 1px solid red; */
+                  margin: 0px auto;
+                  font-size: 65px;
+                  text-align: center;
+                  color: black;
+                  padding-bottom: 120px;
+              }
+
+              .continuelink {
+                  width: 20%;
+/*                   border: 1px solid red; */
+                  margin: 0px auto;
+                  text-align: center;
+                  padding: 20px;
+                  background-color: #2a9d8f;
+              }
+
+              .continuelink a {
+                  color: beige;
+                  text-decoration: none;
+                  font-size: x-large;
+              }
+
+              /* LOGIN PAGE */
+              .loginpagecontent {
+                  width: 90%;
+                  /* border: 1px solid red; */
+                  margin: 0px auto;
+
+              }
+
+              .loginpagecontent img {
+                  height: 100px;
+                  width: 100px;
+                  float: left;
+                  margin-right: 30px;
+              }
+
+              .proceed {
+                  width: 65%;
+                  /* border: 1px solid red; */
+                  margin: 0px auto;
+                  text-align: center;
+                  font-size: 65px;
+                  color: black;
+                  padding-bottom: 30px;
+              }
+
+              .signin {
+                  width: 70%;
+/*                   border: 1px solid red; */
+                  margin: 0px auto;
+                  text-align: center;
+                  font-size: 20px;
+                  background-color: #7699a9;
+                  color: beige;
+border-top-left-radius: 15px;
+                border-top-right-radius: 15px;
+              }
+
+              .signin input {
+                  width: 50%;
+                  height: 40px;
+                  border-radius: 10px;
+
+              }
+
+
+              .signinbutton {
+                  /* border: 1px solid red; */
+                  margin: 0px auto;
+                  width: 70%;
+                  text-align: center;
+                  padding-top: 120px;
+                  background-color: #7699a9;
+                border-bottom-left-radius: 15px;
+                border-bottom-right-radius: 15px;
+              }
+
+              .signinbutton button {
+                  width: 50%;
+                  font-size: 25px;
+                  border-radius: 10px;
+                  height: 50px;
+                  background-color: #2a9d8f;
+                  color: beige;
+              }
+
+
+              /* SIGNUP PAGE */
+
+              .signuppage {
+                  width: 90%;
+                  margin: 0px auto;
+                  /* border: 1px solid red; */
+                  text-align: center;
+                  font-size: 20px;
+              }
+
+              .signupcontent {
+                  width: 70%;
+                  margin: 0px auto;
+                  /* border: 1px solid red; */
+                  background-color: #7699a9;
+                border-radius: 15px;
+              }
+
+              .signupcontents {
+                  width: 50%;
+                  margin: 0px auto;
+                  /* border: 1px solid red; */
+                  color: beige;
+                  padding-top: 10px;
+              }
+
+              .signuppage img {
+                  height: 100px;
+                  width: 100px;
+                  float: left;
+                  margin-right: 30px;
+              }
+
+              .firstname,
+              .phonenumber {
+                  float: left;
+
+              }
+
+              .lastname,
+              .passwordinsignup {
+                  float: right;
+
+              }
+
+              input {
+                  width: 100%;
+                  height: 40px;
+                  border-radius: 10px;
+              }
+
+              .signuppage button {
+                  width: 100%;
+                  font-size: 25px;
+                  border-radius: 10px;
+                  height: 50px;
+                  background-color: #2a9d8f;
+              }
+
+              .loginpagecontent a,
+              .signuppage a {
+                  float: right;
+                  font-size: 20px;
+                  text-decoration: none;
+                  color: black;
+                  padding-top: 15px;
+              }
+
+              #signupimg {
+                  display: block;
+                  width: 20px;
+                  height: 20px;
+                  position: absolute;
+                  top: 50%;
+                  left: 85%;
+
+              }
+
+              .phonenumber {
+                  position: relative;
+              }
